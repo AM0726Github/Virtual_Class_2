@@ -13,9 +13,9 @@ img {
   /* TODO: Add a padding property */
   /* TODO: Add a border property */
 
-  border: 5px solid;
+  border: 8px solid;
   border-color: blue;
-
+  border-radius: 25px;
 }
 
 #image1 {
